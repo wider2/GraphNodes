@@ -1,0 +1,11 @@
+C:\Users\Alexei\Documents\Visual Studio 2017\Projects\GraphNodes\GraphNodes\obj\Debug\netcoreapp2.0\GraphNodes.csprojResolveAssemblyReference.cache
+C:\Users\Alexei\Documents\Visual Studio 2017\Projects\GraphNodes\GraphNodes\obj\Debug\netcoreapp2.0\GraphNodes.csproj.CoreCompileInputs.cache
+C:\Users\Alexei\Documents\Visual Studio 2017\Projects\GraphNodes\GraphNodes\obj\Debug\netcoreapp2.0\GraphNodes.AssemblyInfoInputs.cache
+C:\Users\Alexei\Documents\Visual Studio 2017\Projects\GraphNodes\GraphNodes\obj\Debug\netcoreapp2.0\GraphNodes.AssemblyInfo.cs
+C:\Users\Alexei\Documents\Visual Studio 2017\Projects\GraphNodes\GraphNodes\bin\Debug\netcoreapp2.0\GraphNodes.deps.json
+C:\Users\Alexei\Documents\Visual Studio 2017\Projects\GraphNodes\GraphNodes\bin\Debug\netcoreapp2.0\GraphNodes.runtimeconfig.json
+C:\Users\Alexei\Documents\Visual Studio 2017\Projects\GraphNodes\GraphNodes\bin\Debug\netcoreapp2.0\GraphNodes.runtimeconfig.dev.json
+C:\Users\Alexei\Documents\Visual Studio 2017\Projects\GraphNodes\GraphNodes\bin\Debug\netcoreapp2.0\GraphNodes.dll
+C:\Users\Alexei\Documents\Visual Studio 2017\Projects\GraphNodes\GraphNodes\bin\Debug\netcoreapp2.0\GraphNodes.pdb
+C:\Users\Alexei\Documents\Visual Studio 2017\Projects\GraphNodes\GraphNodes\obj\Debug\netcoreapp2.0\GraphNodes.dll
+C:\Users\Alexei\Documents\Visual Studio 2017\Projects\GraphNodes\GraphNodes\obj\Debug\netcoreapp2.0\GraphNodes.pdb
